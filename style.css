@@ -1,1 +1,27 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    padding:0;
+    width:100vw;
+    height:100vh;
+}
+.container{
+    border: 20px solid #a85032;
+    background-color: black;
+    height:30vh;
+    width:40vw;
+    border-radius:10px;
+}
+.clock{
+    font-family: Orbitron;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    height:30vh;
+    width:40vw;
+    color: #fff;
+    font-size:120px;
+}
