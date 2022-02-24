@@ -1,1 +1,9 @@
-
+#digital-clock {
+    width: 35%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 64px;
+    text-align: center;
+   }
