@@ -1,1 +1,29 @@
-
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.bod {
+    width: 600px;
+    height: 300px;
+    background-color: blanchedalmond;
+    border: 10px solid tan;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.clock {
+    font-size: 150px;
+    margin-left: -100px;
+    margin-top: 0px;
+    font-family: 'Teko', sans-serif;
+}
+.dat {
+    font-size: 50px;
+    margin-top: -70px;
+    margin-left: -380px;
+    font-family: 'Teko', sans-serif;
+}
