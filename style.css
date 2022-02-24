@@ -12,16 +12,16 @@ body{
     border: 20px solid #a85032;
     background-color: black;
     height:30vh;
-    width:40vw;
+    width: 35vw;
     border-radius:10px;
 }
-.clock{
+#clock{
     font-family: Orbitron;
     display:flex;
     align-items:center;
     justify-content: center;
     height:30vh;
-    width:40vw;
+    width:35vw;
     color: #fff;
     font-size:120px;
 }
